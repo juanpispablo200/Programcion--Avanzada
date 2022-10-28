@@ -8,4 +8,6 @@ entero = 2
 print(type(entero))
 
 float = 5.4
-print(float)
+print(type(float))
+complejo =5
+print(type(complejo))
